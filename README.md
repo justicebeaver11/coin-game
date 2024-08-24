@@ -1,1 +1,2 @@
-# coin-game
+# coinflipgamebsc
+Coin Flip game full source
